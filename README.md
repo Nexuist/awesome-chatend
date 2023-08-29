@@ -4,6 +4,8 @@ This is a collection of Chatend Custom Commands that you can use to build new Ch
 
 Chatend is a platform for developing, deploying, and talking to your own chatbot apps powered by the latest innovations in AI technology. Chatend bots can be taught to use Custom Commands to interact with digital and physical worlds.
 
+**Contributions and Pull Requests welcome!**
+
 [Sign up for Chatend ›](https://chatend.ai)
 
 [Launch Chatend IDE ›](https://chatend.ai/startup)
